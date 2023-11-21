@@ -22,8 +22,10 @@
 </nav> <!-- fermeture navbar -->
 
 <div id="contenu_1">
-	Ici mon bloc 1
+	Ici mon bloc principal 1
+	Ce site vous présentera une branche
 </div> <!-- fermeture contenu_1 -->
+
 
 <div id="contenu_2">
 	Ici mon bloc 2
